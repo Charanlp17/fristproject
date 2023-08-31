@@ -25,7 +25,7 @@ setup(name="ml",
       author="lp the boss",
       description="first projects",
       packages=find_packages(),
-        install_requires=get_requirements('requirements.txt')
+      install_requires=get_requirements('requirements.txt')
       
     
       
